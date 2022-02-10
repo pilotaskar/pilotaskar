@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Askar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Front end
-- 💞️ I’m looking to collaborate on expert on my work
+- 💞️ I am trying to be a master at my job
 - 📫 How to reach me askarbekzholdoshov@gmail.com
 
 <!---

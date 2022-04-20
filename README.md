@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Askar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front end
+- 🌱 I’m front end developer
 - 💞️ I am trying to be a master at my job
 - 📫 How to reach me askarbekzholdoshov@gmail.com
 
